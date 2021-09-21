@@ -19,25 +19,31 @@ NodeJS: https://nodejs.org/en/
 
 Npm: https://www.npmjs.com/
 
-🔧 Como rodar o projeto?
-1 - Primeiro faça o clone desse repositório com o comando: git clone https://github.com/Lucbm99/PhrasesAPI.git, com o prompt de comando ou o Git Bash, em qualquer pasta de seu computador.
-2 - Após isso, deverá ser digitado no terminal na pasta de seu projeto, o comando npm install.
-3 - Feita a instalação do npm, é necessário digitar o comando npm run start-dev, para abrir a aplicação, que estará disponível em http://localhost:4000 em seu computador.
-4 - Depois disso, como uma API não possui interface gráfica, a mesma terá que ser testada no Insomnia ou Postman.
+### 🔧 Como rodar o projeto?
+
+## 1 - Primeiro faça o clone desse repositório com o comando: git clone https://github.com/Lucbm99/PhrasesAPI.git, com o prompt de comando ou o Git Bash, em qualquer pasta de seu computador.
+
+## 2 - Após isso, deverá ser digitado no terminal na pasta de seu projeto, o comando npm install.
+
+## 3 - Feita a instalação do npm, é necessário digitar o comando npm run start-dev, para abrir a aplicação, que estará disponível em http://localhost:4000 em seu computador.
+
+## 4 - Depois disso, como uma API não possui interface gráfica, a mesma terá que ser testada no Insomnia ou Postman.
 
 📦 Status da aplicação
 🚧 Em andamento 🚧
 
+## 🛠️ Feito com
+* [NodeJS](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [NPM](https://www.npmjs.com/)
 
-🛠️ Feito com
-NodeJS
-Git
-NPM
-
-✒️ Licença
+## ✒️ Licença 
 Consulte o arquivo LICENSE.md, para maiores detalhes.
 
-✒️ Autores
-API feita por mim - Lucbm99
+## ✒️ Autores
+Interface feita por mim - [Lucbm99](https://github.com/Lucbm99)
 
-⌨️ com ❤️ por Lucas Baradel 😊
+
+
+---
+⌨️ com ❤️ por [Lucas Baradel](https://github.com/Lucbm99) 😊
